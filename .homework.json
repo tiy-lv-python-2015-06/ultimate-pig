@@ -1,0 +1,11 @@
+{
+  "name": "ultimate-pig",
+  "version": "1.0.0",
+  "title": "Ultimate Pig",
+  "description": "Use Monte Carlo simulations to find the ultimate player of Pig Solitaire.",
+  "keywords": [
+    "monte-carlo",
+    "randomness",
+    "simulation"
+  ]
+}
